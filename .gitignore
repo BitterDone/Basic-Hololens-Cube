@@ -17,6 +17,7 @@
 /[Aa]ssets/Azure*
 /*[Tt]est*/
 /build*/
+/app*/
 /Assets/Plugins/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
